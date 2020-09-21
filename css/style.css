@@ -1,0 +1,187 @@
+body{
+	font-size: 14px;
+	font-family: Helvetica;
+}
+
+header{
+	background-color: #3D9A9B;
+	padding: 0;
+	text-align: center;
+}
+
+.content{
+	padding-left: 40px;
+	text-align: left;
+}
+
+.nav-link{
+	background-color: ;
+	text-align: center;
+	font-size: 25px;
+	padding: 10px;
+}
+.nav-link:hover{
+	background-color:#F39C17;
+	border-radius: 20px;
+	color:white!important;
+}
+.navbar-light .navbar-nav .active .nav-link{
+	background-color: transparent!important;
+	color:#052F2F;
+}
+#hero{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	padding: 100px 0px;
+	color: #FFFFFF;
+}
+
+#hero h2{
+	font-size: 24px;
+	padding-top: 300px;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: "Segoe UI";
+}
+
+
+#Hoteles {
+	background-color: #003333;
+	color: #fff;
+	text-align: justify;
+}
+#Hoteles h2{
+	text-align: center;
+	padding: 30px;
+}
+#Hoteles h5{
+	padding: 10px;
+	text-align: center;
+	color: #659999;
+}
+#Hoteles a{
+	color: #659999;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+.content{
+	padding: 20px;
+}
+
+.espacio-columnas {
+	padding: 20px 37px;
+}
+
+footer{
+	background-color: #659999;
+	padding: 15px;
+	text-align: center;
+	color: #fff;
+}
+.fa-facebook-square{
+	font-size: 35px;
+	letter-spacing: 12px;
+}
+.fa-instagram{
+	font-size: 35px;
+	letter-spacing: 8px;
+}
+.fa-whatsapp{
+	font-size: 35px;
+	letter-spacing: 8px;
+}
+.fa-envelope{
+	font-size: 35px;
+	letter-spacing: 8px;
+}
+footer .copy{
+	text-align: center;
+	padding: 15px;
+	color: #003333;
+	
+}
+
+#Restaurantes{
+	background-color: #003333;
+	color: #fff;
+	text-align: justify;
+}
+
+#Restaurantes h2{
+	font-size: segoe UI;
+	text-align: center;
+	padding: 30px;
+}
+#Restaurantes h4{
+	color: #659999;
+	padding: 10px;
+}
+#Restaurantes p{
+	margin: 35px 0;
+}
+#Restaurantes a{
+	color: #659999;
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#turismo h2{
+	font-size: segoe UI;
+	text-align: center;
+	padding: 30px;
+}
+#turismo h4{
+	color: #659999;
+	padding: 14px;
+	padding-bottom: 25px;
+}
+#turismo a{
+	color: #659999;
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#turismo p{
+	text-align: justify;
+	margin: 30px;
+	margin-right: 25px;
+	margin-left: 30px;
+}
+.content{
+	background-color: #052F2F !important;
+	color:white;
+}
+.navbar-light{
+	background-color:transparent!important;
+}
+.col-6{
+	display:relative;
+}
+.linea:after{
+  content: "";
+  background-color: #fff;
+  position: absolute;
+  width: 1px;
+  height: 100%;
+  top: 0px;
+  right: 0%;
+  display: block;
+}
+#subhero{
+	background-color: rgb(5,47,47);
+}
+.cb{
+	background-color: rgb(5,47,47, 0.4);
+}
+#contact label{color:white;}
+.contentR{
+	background-image: url("../img/hondurastipsC.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center top;
+}
